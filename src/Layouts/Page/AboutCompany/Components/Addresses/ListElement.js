@@ -5,6 +5,9 @@ import RemoveIcon from '../../../../../Icons/RemoveIcon';
 import IconOnlyButton from '../../../../../Components/IconOnlyButton.js';
 
 const Option = styled.div`
+    box-sizing: border-box; 
+    border-box: 1 px
+    border-color:F8FAFC
     outline: none;
     border-radius: 24px;
     border: solid #E2E8F0 1px;
