@@ -29,7 +29,7 @@ function IconsRow() {
             </ButtonLeftWrapper>
             <ButtonRightWrapper>
                 <Clickable>
-                <IconOnlyButton icon={<MessagesIcon/>}/>
+                <IconOnlyButton icon={<NotificationsIcon/>}/>
                 </Clickable>
             </ButtonRightWrapper>
         </div>

@@ -7,7 +7,7 @@ import ArrowLeft from "../../../Images/ArrowLeft"
 import ArrowRight from "../../../Images/ArrowRight"
 
 const Container = styled.div`
-    background: linear-gradient(180deg, #587DA2 0%, #36699D 100%);
+    background: #F8FAFC
 `;
 
 function Header() {
