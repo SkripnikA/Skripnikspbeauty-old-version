@@ -8,7 +8,7 @@ function SecondaryButton(props) {
         border: 8px solid #64748B;
         box-shadow: inset 0px 1px 2px rgba(10, 15, 26, 0.08);
         min-width: ${minWidth};
-        color: #152842;
+        color: #FFFFF;
     `;
     return (
         <Clickable >
