@@ -16,7 +16,8 @@ function PrimaryButton(props) {
             background: #6099F6;
         }
         &:active {
-            background: #3B82F6;
+            background: #0F172A;
+            opacity: 0.6;
         }
     `;
     return (
